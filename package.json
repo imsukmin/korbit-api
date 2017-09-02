@@ -1,6 +1,6 @@
 {
   "name": "korbitapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "korbit api promise based (using AXIOS)",
   "main": "index.js",
   "scripts": {
