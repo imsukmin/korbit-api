@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/imsukmin/korbit-api/issues"
   },
-  "homepage": "https://github.com/imsukmin/korbit-api#readme"
+  "homepage": "https://github.com/imsukmin/korbit-api#readme",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
 }
