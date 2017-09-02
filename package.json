@@ -1,8 +1,8 @@
 {
   "name": "korbitapi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "korbit api promise based (using AXIOS)",
-  "main": "index.js",
+  "main": "KorbitAPI.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
