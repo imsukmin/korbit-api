@@ -1,6 +1,14 @@
 # korbitAPI
  
  > korbit api Object based Promise (using AXIOS)
+ 
+ this api use only public API
+ 
+ for Detail [https://apidocs.korbit.co.kr/](https://apidocs.korbit.co.kr/)
+ 
+## demo (telegramBot)
+
+[@korbitBot](http://t.me/korbitBot) [not available]
   
 ## install
  
@@ -11,10 +19,10 @@
  ``` javascript
  
  var KorbitAPI = require('korbitapi');
- var korbit = new KorbitAPI();
+ var Korbit = new KorbitAPI();
  
- korbit.ticker('btc').then(function(response){
+ Korbit.ticker('btc').then(function(response){
    console.log(response.data)
  })
  
- ```
+ ```git push
