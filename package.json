@@ -1,6 +1,6 @@
 {
   "name": "korbitapi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "korbit api promise based (using AXIOS)",
   "main": "KorbitAPI.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imsukmin/korbit-api.git"
+    "url": "git+https://github.com/imsukmin/korbitAPI.git"
   },
   "keywords": [
     "korbit",
@@ -18,9 +18,9 @@
   "author": "imsukmin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imsukmin/korbit-api/issues"
+    "url": "https://github.com/imsukmin/korbitAPI/issues"
   },
-  "homepage": "https://github.com/imsukmin/korbit-api#readme",
+  "homepage": "https://github.com/imsukmin/korbitAPI#readme",
   "dependencies": {
     "axios": "^0.16.2"
   }
